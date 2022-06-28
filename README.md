@@ -1,1 +1,2 @@
 # My first project
+# COSC360 LECTURE 1 GIT REVISION 
